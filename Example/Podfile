@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'WSRPodTest_Example' do
+  pod 'WSRPodTest', :path => '../'
+
+  target 'WSRPodTest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
