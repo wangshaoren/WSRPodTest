@@ -1,0 +1,6 @@
+framework module WSRPodTest {
+  umbrella header "WSRPodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
