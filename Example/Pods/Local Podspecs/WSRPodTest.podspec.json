@@ -18,5 +18,10 @@
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "WSRPodTest/Classes/**/*"
+  "source_files": "WSRPodTest/Classes/**/*",
+  "dependencies": {
+    "Bifrost": [
+      "1.0.0"
+    ]
+  }
 }

@@ -1,15 +1,22 @@
 PODS:
-  - WSRPodTest (0.1.0)
+  - Bifrost (1.0.0)
+  - WSRPodTest (0.1.0):
+    - Bifrost (= 1.0.0)
 
 DEPENDENCIES:
   - WSRPodTest (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Bifrost
 
 EXTERNAL SOURCES:
   WSRPodTest:
     :path: "../"
 
 SPEC CHECKSUMS:
-  WSRPodTest: 0cb90c96363db55319b1a5666402d6a992bf0c9e
+  Bifrost: 2eb95b8054a8fe34845dd6cdd9b4af492f58f203
+  WSRPodTest: 8ce8c7f5e261b651572b4717778e012dc9872879
 
 PODFILE CHECKSUM: d7363239e843a458ad147798e9175a7852a2f9ae
 
