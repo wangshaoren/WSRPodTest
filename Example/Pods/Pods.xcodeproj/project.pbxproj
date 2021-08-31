@@ -109,6 +109,7 @@
 		D61402772F813889A5741C66F0C72CD2 /* Pods-WSRPodTest_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-WSRPodTest_Tests-umbrella.h"; sourceTree = "<group>"; };
 		DB6CF76926DCC5520021D1BD /* HNWBifost.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HNWBifost.h; sourceTree = "<group>"; };
 		DB6CF76A26DCC5520021D1BD /* HNWBifost.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HNWBifost.m; sourceTree = "<group>"; };
+		DBA2C7B626DDD43B000A1655 /* HNWTreeProtocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HNWTreeProtocol.h; sourceTree = "<group>"; };
 		E0888F8E40B27B124028705CC02BECB2 /* WSRPodTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = WSRPodTest.release.xcconfig; sourceTree = "<group>"; };
 		E4E3FDD59C66164A552179DA2F63F30D /* Bifrost+Router.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "Bifrost+Router.m"; path = "Bifrost/Lib/Bifrost+Router.m"; sourceTree = "<group>"; };
 		E9777FE6FD1D455D1939F58721E7A8A8 /* Bifrost-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Bifrost-prefix.pch"; sourceTree = "<group>"; };
@@ -303,6 +304,7 @@
 			children = (
 				DB6CF76926DCC5520021D1BD /* HNWBifost.h */,
 				DB6CF76A26DCC5520021D1BD /* HNWBifost.m */,
+				DBA2C7B626DDD43B000A1655 /* HNWTreeProtocol.h */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
